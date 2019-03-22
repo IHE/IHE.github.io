@@ -6,14 +6,14 @@
     <title>MMA\Use Case 1 - Home Care Nurse shift - FHIR v3.2.0</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="http://hl7.org/fhir">
-    <link rel="stylesheet" href="./_files/fhir.css">
+    <link rel="stylesheet" href="./files/fhir.css">
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="./_files/bootstrap.css">
-    <link rel="stylesheet" href="./_files/bootstrap-fhir.css">
+    <link rel="stylesheet" href="./files/bootstrap.css">
+    <link rel="stylesheet" href="./files/bootstrap-fhir.css">
     <!-- Project extras -->
-    <link rel="stylesheet" href="./_files/project.css">
-    <link rel="stylesheet" href="./_files/pygments-manni.css">
-    <link rel="stylesheet" href="./_files/jquery-ui.css">
+    <link rel="stylesheet" href="./files/project.css">
+    <link rel="stylesheet" href="./files/pygments-manni.css">
+    <link rel="stylesheet" href="./files/jquery-ui.css">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- [if lt IE 9]>
     <script src="assets/js/html5shiv.js"></script>    <script src="assets/js/respond.min.js"></script>    <![endif] -->
@@ -931,10 +931,10 @@
   td.hidden-lg {
     display: none !important;
   }</style>
-    <script src="./_files/jquery.js.download"></script>
-    <script src="./_files/jquery-ui.min.js.download">
+    <script src="./files/jquery.js.download"></script>
+    <script src="./files/jquery-ui.min.js.download">
 	  </script>
-    <script src="./_files/bootstrap.min.js.download">
+    <script src="./files/bootstrap.min.js.download">
 	  </script>
     <script type="text/javascript">//  <!-- [CDATA[
 $(window).load(function(){
@@ -949,10 +949,9 @@ $("[data-tab]").on('click', function() {
 });//]] --></script>
   </head>
   <body>
-    <div id="segment-header" class="segment">
-      <!-- segment-header -->
+    <div id="segment-header" class="segment"> <!-- segment-header -->
       <div class="container">
-        <!-- container --> <a no-external="true" id="logo" href="http://hl7.org/fhir">
+        <!-- container --> <a no-external="true" id="logo" href="https://ihe.github.io/">
           <img src="image1.jpeg" alt="logo fhir" style="width: 129px; height: 66px;">
         </a>
         <div id="hl7-status">&nbsp;&nbsp;&nbsp; <b>IHE Technical Frameworks</b>
@@ -961,9 +960,7 @@ $("[data-tab]").on('click', function() {
             <br>
           </a> </div>
         <div id="hl7-search"> <a no-external="true" id="hl7-search-lnk" href="http://hl7.org/fhir/search.cfm">
-            <img src="./_files/search.png"
-
-              alt="Search FHIR"> </a> </div>
+            <img src="./files/search.png" alt="Search FHIR"> </a> </div>
       </div>
       <div class="container">
         <!-- container --> </div>
@@ -987,18 +984,12 @@ $("[data-tab]").on('click', function() {
               class="navbar-brand hidden">FHIR</a>
             <div class="nav-collapse collapse navbar-inverse-collapse">
               <ul xmlns="http://www.w3.org/1999/xhtml" class="nav navbar-nav">
-                <li> <a href="./index.html">IHE Home</a>
-                </li>
-                <li> <a href="./index.html">Table of
-                    Contents</a> </li>
-                <li> <a href="./index.html">Technical
-                    Frameworks</a> </li>
-                <li> <a href="./index.html">Cases</a>
-                </li>
-                <li> <a href="./index.html">Downloads</a>
-                </li>
-                <li> <a href="./index.html">Version
-                    History</a> </li>
+                <li> <a href="./index.html">IHE Home</a> </li>
+                <li> <a href="./index.html">Table of Contents</a> </li>
+                <li> <a href="./index.html">Technical Frameworks</a> </li>
+                <li> <a href="./index.html">Cases</a> </li>
+                <li> <a href="./index.html">Downloads</a> </li>
+                <li> <a href="./index.html">Version History</a> </li>
               </ul>
             </div>
             <!-- /.nav-collapse --> </div>
@@ -1013,8 +1004,7 @@ $("[data-tab]").on('click', function() {
         <!-- container -->
         <ul class="breadcrumb">
           <li><a href="./index.html"><b>Table of Contents</b></a></li>
-          <li><a href="./index.html"><b>Technical
-                Frameworks</b></a></li>
+          <li><a href="./index.html"><b>Technical Frameworks</b></a></li>
           <li><b>IHE Pharmacy Technical Framework<br>
             </b></li>
         </ul>
@@ -1031,7 +1021,7 @@ $("[data-tab]").on('click', function() {
               <h2 class="self-link-parent"> <span class="sectioncount">5.1<a name="5.1">
                   </a></span>IHE Pharmacy Technical Framework <a href="./index.html#5.1"
 
-                  title="link to here" class="self-link"> <img src="./_files/link.svg"
+                  title="link to here" class="self-link"> <img src="./files/link.svg"
 
                     class="self-link" height="20" width="20"> </a> </h2>
               <div xmlns="http://www.w3.org/1999/xhtml">
@@ -1055,10 +1045,9 @@ $("[data-tab]").on('click', function() {
 
                                   title="link to here" class="self-link"> <img
 
-                                    src="./_files/link.svg"
+                                    src="./files/link.svg" class="self-link" height="20"
 
-                                    class="self-link" height="20" width="20"> </a>
-                              </h3>
+                                    width="20"> </a> </h3>
                               <p><br>
                               </p>
                               <p>This is about kittens. If you can not read
@@ -1127,10 +1116,9 @@ $("[data-tab]").on('click', function() {
 
                                   title="link to here" class="self-link"> <img
 
-                                    src="./_files/link.svg"
+                                    src="./files/link.svg" class="self-link" height="20"
 
-                                    class="self-link" height="20" width="20"> </a>
-                              </h3>
+                                    width="20"> </a> </h3>
                               <p><br>
                               </p>
                               <p><u><strong>This was about kittens, but things
@@ -1172,11 +1160,9 @@ $("[data-tab]").on('click', function() {
                             </div>
                             <div id="resources" class="tab-pane fade in"> <a name="1"></a>
                               <h3 class="self-link-parent">Implementation
-                                Materials<a href="./index.html.html#1"
+                                Materials<a href="./index.html.html#1" title="link to here"
 
-                                  title="link to here" class="self-link"> <img
-
-                                    src="./_files/link.svg"
+                                  class="self-link"> <img src="./files/link.svg"
 
                                     class="self-link" height="20" width="20"> </a>
                               </h3>
@@ -1229,13 +1215,10 @@ $("[data-tab]").on('click', function() {
                 History</a> | <a style="color: #81BEF7" href="./index.html">Table
                 of Contents</a> | <a rel="license" style="color: #81BEF7" href="http://hl7.org/fhir/stu3/license.html"><img
 
-                  src="./_files/cc0.png"
+                  src="./files/cc0.png" alt="CC0" style="border-style: none;"></a>
+              | <a style="color: #81BEF7" href="http://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemAdd&amp;tracker_id=677"
 
-                  alt="CC0" style="border-style: none;"></a> | <a style="color: #81BEF7"
-
-                href="http://gforge.hl7.org/gf/project/fhir/tracker/?action=TrackerItemAdd&amp;tracker_id=677"
-
-                target="_blank">Propose a change <img src="./_files/external.png"
+                target="_blank">Propose a change <img src="./files/external.png"
 
                   alt="external" style="text-align: baseline"></a> </span> </p>
         </div>
@@ -1252,19 +1235,11 @@ $("[data-tab]").on('click', function() {
     <!-- Bootstrap core JavaScript
   ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="./_files/jquery.js.download"
-
-type="text/javascript"> </script>
+    <script src="./files/jquery.js.download" type="text/javascript"> </script>
     <!-- note keep space here, otherwise it will be transformed to empty tag -> fails -->
-    <script src="./_files/bootstrap.min.js.download"
-
-type="text/javascript"> </script>
-    <script src="./_files/respond.min.js.download"
-
-type="text/javascript"> </script>
-    <script src="./_files/fhir.js.download"
-
-type="text/javascript"> </script>
+    <script src="./files/bootstrap.min.js.download" type="text/javascript"> </script>
+    <script src="./files/respond.min.js.download" type="text/javascript"> </script>
+    <script src="./files/fhir.js.download" type="text/javascript"> </script>
     <!-- Analytics Below
   ================================================== -->
     <div></div>
