@@ -952,7 +952,7 @@ $("[data-tab]").on('click', function() {
     <div id="segment-header" class="segment">
       <!-- segment-header -->
       <div class="container">
-        <!-- container --> <a no-external="true" id="logo" href="https://ihe.github.io/">
+        <!-- container --> <a no-external="true" id="logo" href="http://hl7.org/fhir">
           <img src="image1.jpeg" alt="logo fhir" style="width: 129px; height: 66px;">
         </a>
         <div id="hl7-status">&nbsp;&nbsp;&nbsp; <b>IHE Technical Frameworks</b>
