@@ -1142,7 +1142,7 @@ $("[data-tab]").on('click', function() {
                                 Tail tuxedo run bedding head chew food purr
                                 drool kisses carrier chirp toy ID tag slobbery
                                 smooshy.</p>
-                              <img src="file:///C:/Users/Jose/Downloads/ihelanding/puppy3.jpg"
+                              <img src="./puppy3.jpg"
 
                                 alt="puppy"><span style="font-family: Verdana;"><a
 
@@ -1169,7 +1169,7 @@ $("[data-tab]").on('click', function() {
                               <p><br>
                               </p>
                               <p>Here's some more</p>
-                              <img src="file:///C:/Users/Jose/Downloads/ihelanding/original.jpg"
+                              <img src="./original.jpg"
 
                                 alt="">
                               <p style=" color: black; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><u><strong><br>
@@ -1180,7 +1180,7 @@ $("[data-tab]").on('click', function() {
 
                                   target="blank" style="font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><span><img
 
-                                      src="file:///C:/Users/Jose/Downloads/ihelanding/baby_sloth.jpg"
+                                      src="./baby_sloth.jpg"
 
                                       alt="" style="width: 570px; height: 320px;">
                                   </span></a><span style="color: black; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span><br
