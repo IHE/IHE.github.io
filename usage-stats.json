@@ -1,0 +1,8 @@
+{
+  "package": "ihe.fhir.profile.frontpage",
+  "fhirVersion": "4.0.1",
+  "jurisdiction": "US",
+  "extensions": [],
+  "profiles": {},
+  "usage": {}
+}
