@@ -1,8 +1,13 @@
 {
   "package": "ihe.fhir.profile.frontpage",
+  "version": "0.1",
   "fhirVersion": "4.0.1",
   "jurisdiction": "US",
   "extensions": [],
   "profiles": {},
-  "usage": {}
+  "usage": {
+    "http://hl7.org/fhir/tools/StructureDefinition/ig-parameter": [
+      "ImplementationGuide.definition"
+    ]
+  }
 }
