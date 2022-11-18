@@ -1,4 +1,4 @@
-# [Integrating the Healthcare Enterprise (IHE)](https://www.ihe.net)
+![Integrating the Healthcare Enterprise (IHE)](IHE_INTERNATIONAL.png)
 
 For all IHE material, please consult:
 
